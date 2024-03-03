@@ -3,6 +3,7 @@
 # Table of Contents
 
 https://github.com/WawanByl/final_project_data_science/blob/main/README.md#1-latar-belakang
+https://github.com/WawanByl/final_project_data_science/blob/main/README.md#2-tujuan
 
 # 1. Latar Belakang
 
