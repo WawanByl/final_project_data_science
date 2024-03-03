@@ -1,9 +1,6 @@
 # Penentuan Biaya Asuransi Berdasarkan Profil Klien
-<p align="center">
-  <img src="https://thenounproject.com/icon/sparkle-6404470/" width="25" height="25"> 
-  <b>Penentuan Biaya Asuransi Berdasarkan Profil Klien</b> 
-  <img src="https://thenounproject.com/icon/sparkle-6404470/" width="25" height="25">
-</p>
+# :star: Penentuan Biaya Asuransi Berdasarkan Profil Klien :star:
+
 
 <img src="https://www.python.org/static/community_logos/python-logo.png" alt="icon python" title="Judul Gambar" width="150" height="75"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png" alt="icon python" title="Judul Gambar" width="150" height="75">
 
