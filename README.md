@@ -1,9 +1,14 @@
 # Penentuan Biaya Asuransi Berdasarkan Profil Klien
 
 ## Table of Contents
+[1. Latar Belakang](https://github.com/WawanByl/final_project_data_science/edit/main/README.md#1-latar-belakang)
+[2. Tujuan](https://github.com/WawanByl/final_project_data_science/edit/main/README.md#2-tujuan)
+[3. Data Understanding](https://github.com/WawanByl/final_project_data_science/edit/main/README.md#3-data-understanding)
+[4. Exploratory Data Analysisi](https://github.com/WawanByl/final_project_data_science/edit/main/README.md#4-exploratory-data-analysis)
+[5. Permodelan](https://github.com/WawanByl/final_project_data_science/edit/main/README.md#5-permodelan)
+[6. Kesimpulan](https://github.com/WawanByl/final_project_data_science/edit/main/README.md#6-kesimpulan)
 
 ### 1. Latar Belakang
-
 1. Dalam bisnis asuransi, ada beberapa poin yang perlu diperhatikan salah satunya adalah penentuan premi,  manajemen risiko, dan personalisasi penawaran.
 2. Penentuan Premi yang lebih akurat sangat diperlukan untuk menilai risiko individu berdasar factor-factor; usia, BMI, status perokok atau bukan, jumlah anak dan tempat tinggal.
 3. Manajemen Risiko yang lebih baik dapat membantu perusahaan dalam mengidentifikasi polis yang berpotensi tinggi, dan mengambil langkah-langkah preventif.
@@ -11,13 +16,11 @@
    campaign yang efektif
 
 ### 2. Tujuan
-
 1. Tujuan kita kali ini adalah untuk memprediksi berapa charges (biaya asuransi) berdasarkan variable lain seperti; age, BMI, children, sex, smoker dan region.
 2. Mendapatkan daftar fitur & pentingnya ( feature importances) dari model terbaik yang nantinya kita pilih
 3. Menentukan model yang digunakan, apakah model regresi atau klasifikasi?
 
 ### 3. Data Understanding
-
 insurance.csv berisi kolom antara lain :
 age: Usia penerima asuransi.
 bmi: Body Mass Index, memberikan pemahaman tubuh, berat yang dianggap sehat atau tidak sehat berdasarkan tinggi.
@@ -27,7 +30,6 @@ region: Wilayah tempat tinggal penerima asuransi di AS (northeast, southeast, so
 charges: Biaya asuransi kesehatan individu.
 
 ### 4. Exploratory Data Analysis
-
 ![image](https://github.com/WawanByl/final_project_data_science/assets/153416221/b56e43c4-bca1-436b-9372-733807f1ebd2)
 
 ![image](https://github.com/WawanByl/final_project_data_science/assets/153416221/0b0f4422-611d-48ff-b457-263c3b0f5e67)
@@ -55,7 +57,6 @@ Biaya Asuransi berdasarkan Jenis Kelamin: Terdapat perbedaan kecil dalam biaya a
 Biaya Asuransi berdasarkan Wilayah: Tidak tampak adanya perbedaan signifikan dalam biaya berdasarkan wilayah, menunjukkan bahwa lokasi mungkin bukan faktor utama dalam menentukan biaya asuransi.
 
 ### 5. Permodelan
-
 Modeling Data : Model sederhana ke model yang lebih kompleks
 
 Regresi linear sederhana
