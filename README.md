@@ -1,8 +1,8 @@
 # Penentuan Biaya Asuransi Berdasarkan Profil Klien
 
-# Table of Contents
+## Table of Contents
 
-# 1. Latar Belakang
+### 1. Latar Belakang
 
 1. Dalam bisnis asuransi, ada beberapa poin yang perlu diperhatikan salah satunya adalah penentuan premi,  manajemen risiko, dan personalisasi penawaran.
 2. Penentuan Premi yang lebih akurat sangat diperlukan untuk menilai risiko individu berdasar factor-factor; usia, BMI, status perokok atau bukan, jumlah anak dan tempat tinggal.
@@ -10,13 +10,13 @@
 4. Optimasi Strategi Pemasaran, analisis data yang mendalam memungkinkan Perusahaan mengidentifikasi  segmen pelanggan yang potensial dan menargetkan mereka dengan marketing  
    campaign yang efektif
 
-# 2. Tujuan
+### 2. Tujuan
 
 1. Tujuan kita kali ini adalah untuk memprediksi berapa charges (biaya asuransi) berdasarkan variable lain seperti; age, BMI, children, sex, smoker dan region.
 2. Mendapatkan daftar fitur & pentingnya ( feature importances) dari model terbaik yang nantinya kita pilih
 3. Menentukan model yang digunakan, apakah model regresi atau klasifikasi?
 
-# 3. Data Understanding
+### 3. Data Understanding
 
 insurance.csv berisi kolom antara lain :
 age: Usia penerima asuransi.
@@ -26,7 +26,7 @@ smoker: Apakah penerima asuransi perokok atau bukan.
 region: Wilayah tempat tinggal penerima asuransi di AS (northeast, southeast, southwest, northwest).
 charges: Biaya asuransi kesehatan individu.
 
-# 4. Exploratory Data Analysis
+### 4. Exploratory Data Analysis
 
 ![image](https://github.com/WawanByl/final_project_data_science/assets/153416221/b56e43c4-bca1-436b-9372-733807f1ebd2)
 
@@ -54,7 +54,7 @@ Biaya Asuransi berdasarkan Jenis Kelamin: Terdapat perbedaan kecil dalam biaya a
 
 Biaya Asuransi berdasarkan Wilayah: Tidak tampak adanya perbedaan signifikan dalam biaya berdasarkan wilayah, menunjukkan bahwa lokasi mungkin bukan faktor utama dalam menentukan biaya asuransi.
 
-# 5. Permodelan
+### 5. Permodelan
 
 Modeling Data : Model sederhana ke model yang lebih kompleks
 
@@ -131,5 +131,5 @@ Model machine learning yang telah kita kembangkan dan evaluasi untuk memprediksi
 - Implementasi: Analisis data yang mendalam memungkinkan perusahaan mengidentifikasi segmen pelanggan yang potensial dan menargetkan mereka dengan kampanye pemasaran yang efektif.
 - Dampak: Dengan fokus pada pelanggan yang paling mungkin tertarik dengan produk asuransi tertentu, perusahaan dapat meningkatkan ROI dari pengeluaran pemasarannya dan efisien mengalokasikan sumber dayanya.
 
-# 6. Kesimpulan
+### 6. Kesimpulan
 Implementasi model prediktif dalam bisnis asuransi tidak hanya membantu dalam penentuan premi yang akurat dan manajemen risiko tetapi juga meningkatkan pengalaman pelanggan melalui personalisasi penawaran dan komunikasi. Meskipun demikian, penting untuk terus menguji dan memperbarui model dengan data terbaru untuk memastikan akurasi dan relevansinya, serta mempertimbangkan aspek etika dan privasi dalam penggunaan data pelanggan.
