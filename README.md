@@ -1,6 +1,8 @@
 # Penentuan Biaya Asuransi Berdasarkan Profil Klien
 
 <img src="https://www.python.org/static/community_logos/python-logo.png" alt="icon python" title="Judul Gambar" width="300" height="100">
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png" alt="icon python" title="Judul Gambar" width="300" height="100">
+
 
 ## Table of Contents
 [1. Latar Belakang](https://github.com/WawanByl/final_project_data_science/edit/main/README.md#1-latar-belakang)
