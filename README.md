@@ -7,6 +7,7 @@
 [4. Exploratory Data Analysisi](https://github.com/WawanByl/final_project_data_science/edit/main/README.md#4-exploratory-data-analysis)
 [5. Permodelan](https://github.com/WawanByl/final_project_data_science/edit/main/README.md#5-permodelan)
 [6. Kesimpulan](https://github.com/WawanByl/final_project_data_science/edit/main/README.md#6-kesimpulan)
+[7. Appendix](https://github.com/WawanByl/final_project_data_science/edit/main/README.md#7-appendix)
 
 ### 1. Latar Belakang
 1. Dalam bisnis asuransi, ada beberapa poin yang perlu diperhatikan salah satunya adalah penentuan premi,  manajemen risiko, dan personalisasi penawaran.
@@ -134,3 +135,6 @@ Model machine learning yang telah kita kembangkan dan evaluasi untuk memprediksi
 
 ### 6. Kesimpulan
 Implementasi model prediktif dalam bisnis asuransi tidak hanya membantu dalam penentuan premi yang akurat dan manajemen risiko tetapi juga meningkatkan pengalaman pelanggan melalui personalisasi penawaran dan komunikasi. Meskipun demikian, penting untuk terus menguji dan memperbarui model dengan data terbaru untuk memastikan akurasi dan relevansinya, serta mempertimbangkan aspek etika dan privasi dalam penggunaan data pelanggan.
+
+### 7. Appendix
+https://www.kaggle.com/datasets/mirichoi0218/insurance
