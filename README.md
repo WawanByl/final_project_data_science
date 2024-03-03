@@ -127,7 +127,7 @@ Model machine learning yang telah kita kembangkan dan evaluasi untuk memprediksi
 - Dampak: Personalisasi ini meningkatkan penjualan dan retensi pelanggan dengan menawarkan polis yang relevan dan menarik bagi pelanggan. Ini memberi kesempatan berinovasi dalam produk dan layanan yang 
   ditawarkan.
 
-  4. Optimisasi Strategi Pemasaran
+4. Optimisasi Strategi Pemasaran
 - Implementasi: Analisis data yang mendalam memungkinkan perusahaan mengidentifikasi segmen pelanggan yang potensial dan menargetkan mereka dengan kampanye pemasaran yang efektif.
 - Dampak: Dengan fokus pada pelanggan yang paling mungkin tertarik dengan produk asuransi tertentu, perusahaan dapat meningkatkan ROI dari pengeluaran pemasarannya dan efisien mengalokasikan sumber dayanya.
 
