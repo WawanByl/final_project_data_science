@@ -18,3 +18,5 @@ https://github.com/WawanByl/final_project_data_science/blob/main/README.md#2-tuj
 1. Tujuan kita kali ini adalah untuk memprediksi berapa charges (biaya asuransi) berdasarkan variable lain seperti; age, BMI, children, sex, smoker dan region.
 2. Mendapatkan daftar fitur & pentingnya ( feature importances) dari model terbaik yang nantinya kita pilih
 3. Menentukan model yang digunakan, apakah model regresi atau klasifikasi?
+
+# 3. Data Understanding
