@@ -1,6 +1,10 @@
 # Penentuan Biaya Asuransi Berdasarkan Profil Klien
 
-Latar Belakang
+# Table of Contents
+
+
+
+# 1. Latar Belakang
 
 1. Dalam bisnis asuransi, ada beberapa poin yang perlu diperhatikan salah satunya adalah penentuan premi,  manajemen risiko, dan personalisasi penawaran.
 
