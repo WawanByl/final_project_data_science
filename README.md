@@ -18,7 +18,7 @@
 
 # 3. Data Understanding
 
-insurance.csv berisi kolom antara lain :
+insurance.csv berisi kolom antara lain :
 age: Usia penerima asuransi.
 bmi: Body Mass Index, memberikan pemahaman tubuh, berat yang dianggap sehat atau tidak sehat berdasarkan tinggi.
 children: Jumlah anak yang ditanggung oleh asuransi.
@@ -128,10 +128,8 @@ Model machine learning yang telah kita kembangkan dan evaluasi untuk memprediksi
   ditawarkan.
 
   4. Optimisasi Strategi Pemasaran
-- Implementasi: Analisis data yang mendalam memungkinkan perusahaan mengidentifikasi segmen pelanggan yang potensial dan menargetkan mereka dengan kampanye pemasaran   
-   yang efektif.
-- Dampak: Dengan fokus pada pelanggan yang paling mungkin tertarik dengan produk asuransi tertentu, perusahaan dapat meningkatkan ROI dari pengeluaran pemasarannya dan efisien  
-   mengalokasikan sumber dayanya.
+- Implementasi: Analisis data yang mendalam memungkinkan perusahaan mengidentifikasi segmen pelanggan yang potensial dan menargetkan mereka dengan kampanye pemasaran yang efektif.
+- Dampak: Dengan fokus pada pelanggan yang paling mungkin tertarik dengan produk asuransi tertentu, perusahaan dapat meningkatkan ROI dari pengeluaran pemasarannya dan efisien mengalokasikan sumber dayanya.
 
 # 6. Kesimpulan
 Implementasi model prediktif dalam bisnis asuransi tidak hanya membantu dalam penentuan premi yang akurat dan manajemen risiko tetapi juga meningkatkan pengalaman pelanggan melalui personalisasi penawaran dan komunikasi. Meskipun demikian, penting untuk terus menguji dan memperbarui model dengan data terbaru untuk memastikan akurasi dan relevansinya, serta mempertimbangkan aspek etika dan privasi dalam penggunaan data pelanggan.
