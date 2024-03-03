@@ -23,7 +23,7 @@ age: Usia penerima asuransi.
 bmi: Body Mass Index, memberikan pemahaman tubuh, berat yang dianggap sehat atau tidak sehat berdasarkan tinggi.
 children: Jumlah anak yang ditanggung oleh asuransi.
 smoker: Apakah penerima asuransi perokok atau bukan.
-region: Wilayah tempat tinggal penerima asuransi di AS (northeast, southeast, southwest, northwest).
+region: Wilayah tempat tinggal penerima asuransi di AS (northeast, southeast, southwest, northwest).
 charges: Biaya asuransi kesehatan individu.
 
 # 4. Exploratory Data Analysis
